@@ -1,7 +1,7 @@
 baseURL = "https://shoogle.us/north-dakota"
 languageCode = "en-US"
 title = "North Dakota"
-theme = "ln-base-en"
+theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
