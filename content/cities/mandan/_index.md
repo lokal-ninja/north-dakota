@@ -1,6 +1,6 @@
 ---
 title: Mandan
 url: /mandan/
-latitude: 46.826415000000004
-longitude: -100.88970400000001
+latitude: 46.827
+longitude: -100.883
 ---

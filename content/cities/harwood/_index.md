@@ -1,6 +1,6 @@
 ---
 title: Harwood
 url: /harwood/
-latitude: 46.979412
-longitude: -96.880638
+latitude: 46.977
+longitude: -96.881
 ---

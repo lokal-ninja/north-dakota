@@ -1,6 +1,6 @@
 ---
 title: Fargo
 url: /fargo/
-latitude: 46.877229
-longitude: -96.789821
+latitude: 46.859
+longitude: -96.799
 ---

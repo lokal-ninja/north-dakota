@@ -1,5 +1,5 @@
 ---
 title: "VidCycle"
 url: /fargo/vidcycle/
-shop: video
+shop: Videothek
 ---

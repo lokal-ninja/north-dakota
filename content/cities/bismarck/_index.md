@@ -1,6 +1,6 @@
 ---
 title: Bismarck
 url: /bismarck/
-latitude: 46.808327000000006
-longitude: -100.78373900000001
+latitude: 46.832
+longitude: -100.806
 ---

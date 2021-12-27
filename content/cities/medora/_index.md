@@ -1,6 +1,6 @@
 ---
 title: Medora
 url: /medora/
-latitude: 46.9139028
-longitude: -103.52435360000001
+latitude: 46.915
+longitude: -103.526
 ---

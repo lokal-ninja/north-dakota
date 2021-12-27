@@ -1,6 +1,6 @@
 ---
 title: Cogswell
 url: /cogswell/
-latitude: 46.106910000000006
-longitude: -97.78204500000001
+latitude: 46.096
+longitude: -97.764
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /fargo/petco/
-shop: pet
+shop: Tiere
 ---
