@@ -1,5 +1,5 @@
 ---
 title: "Cenex Convenience Store"
 url: /drayton/cenex-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

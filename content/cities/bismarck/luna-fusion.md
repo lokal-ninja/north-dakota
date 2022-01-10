@@ -1,5 +1,5 @@
 ---
 title: "Luna Fusion"
 url: /bismarck/luna-fusion/
-shop: Bioladen
+shop: health food
 ---

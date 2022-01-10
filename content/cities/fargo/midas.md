@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /fargo/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

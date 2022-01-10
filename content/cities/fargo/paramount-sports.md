@@ -1,5 +1,5 @@
 ---
 title: "Paramount Sports"
 url: /fargo/paramount-sports/
-shop: Fahrrad
+shop: bicycle
 ---

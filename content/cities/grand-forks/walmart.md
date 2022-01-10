@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /grand-forks/walmart/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Treasure Trove"
 url: /cavalier/the-treasure-trove/
-shop: Antiquitäten
+shop: antiques
 ---

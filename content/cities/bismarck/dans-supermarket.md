@@ -1,5 +1,5 @@
 ---
 title: "Dan's Supermarket"
 url: /bismarck/dans-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

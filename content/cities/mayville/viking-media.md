@@ -1,5 +1,5 @@
 ---
 title: "Viking Media"
 url: /mayville/viking-media/
-shop: Allgemein
+shop: shop
 ---

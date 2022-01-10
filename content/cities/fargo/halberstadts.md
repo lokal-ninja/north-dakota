@@ -1,5 +1,5 @@
 ---
 title: "Halberstadt's"
 url: /fargo/halberstadts/
-shop: Kleidung
+shop: clothes
 ---

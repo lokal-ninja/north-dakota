@@ -1,5 +1,5 @@
 ---
 title: "Hildbrants Farmers Market"
 url: /west-fargo/hildbrants-farmers-market/
-shop: Garten-Center
+shop: garden centre
 ---

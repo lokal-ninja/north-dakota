@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /fargo/walmart/
-shop: Warenhaus
+shop: department store
 ---

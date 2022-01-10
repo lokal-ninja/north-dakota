@@ -1,5 +1,5 @@
 ---
 title: "Dahlstrom Funeral Home"
 url: /kulm/dahlstrom-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

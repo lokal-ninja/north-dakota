@@ -1,5 +1,5 @@
 ---
 title: "Boot Barn"
 url: /minot/boot-barn/
-shop: Schuhe
+shop: shoes
 ---
