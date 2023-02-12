@@ -1,5 +1,5 @@
 ---
 title: "Hornbacher's Foods"
-url: /fargo/hornbachers-foods-2/
+url: /fargo/hornbachers-foods/
 shop: supermarket
 ---
