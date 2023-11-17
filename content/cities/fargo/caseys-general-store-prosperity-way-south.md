@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /fargo/caseys-general-store-25th-street-south-2/
+url: /fargo/caseys-general-store-prosperity-way-south/
 shop: convenience
 ---
