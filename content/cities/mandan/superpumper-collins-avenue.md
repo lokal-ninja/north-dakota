@@ -1,5 +1,5 @@
 ---
 title: "Superpumper"
-url: /mandan/superpumper-memorial-highway/
+url: /mandan/superpumper-collins-avenue/
 shop: convenience
 ---
