@@ -1,6 +1,6 @@
 ---
 title: Grand Forks
 url: /grand-forks/
-latitude: 47.891
-longitude: -97.053
+latitude: 47.887
+longitude: -97.085
 ---
