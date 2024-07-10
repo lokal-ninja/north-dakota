@@ -1,6 +1,6 @@
 ---
 title: Oakes
 url: /oakes/
-latitude: 46.139
+latitude: 46.138
 longitude: -98.093
 ---
