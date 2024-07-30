@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /bismarck/walmart-supercenter-skyline-boulevard/
+url: /bismarck/walmart-supercenter-rock-island-place/
 shop: supermarket
 ---
