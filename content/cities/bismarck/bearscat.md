@@ -1,5 +1,5 @@
 ---
 title: "Bearscat"
 url: /bismarck/bearscat/
-shop: bakery
+shop: Bäckerei
 ---

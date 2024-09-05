@@ -1,5 +1,5 @@
 ---
 title: "Arco"
 url: /mandan/arco/
-shop: convenience
+shop: Lebensmittel
 ---

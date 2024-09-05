@@ -1,5 +1,5 @@
 ---
 title: "Easy Sweets Bakery"
 url: /dickinson/easy-sweets-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superpumper"
 url: /fargo/superpumper/
-shop: convenience
+shop: Lebensmittel
 ---

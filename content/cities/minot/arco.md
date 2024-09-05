@@ -1,5 +1,5 @@
 ---
 title: "Arco"
 url: /minot/arco/
-shop: convenience
+shop: Lebensmittel
 ---

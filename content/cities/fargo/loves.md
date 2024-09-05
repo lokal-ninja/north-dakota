@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /fargo/loves/
-shop: convenience
+shop: Lebensmittel
 ---

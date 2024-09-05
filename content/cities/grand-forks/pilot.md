@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /grand-forks/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

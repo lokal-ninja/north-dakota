@@ -1,5 +1,5 @@
 ---
 title: "Elegance Mart"
 url: /fargo/elegance-mart/
-shop: convenience
+shop: Lebensmittel
 ---

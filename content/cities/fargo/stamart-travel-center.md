@@ -1,5 +1,5 @@
 ---
 title: "Stamart Travel Center"
 url: /fargo/stamart-travel-center/
-shop: convenience
+shop: Lebensmittel
 ---

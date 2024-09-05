@@ -1,5 +1,5 @@
 ---
 title: "Hugo's"
 url: /grand-forks/hugos-south-columbia-road/
-shop: supermarket
+shop: Supermarkt
 ---

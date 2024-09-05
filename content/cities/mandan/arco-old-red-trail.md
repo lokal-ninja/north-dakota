@@ -1,5 +1,5 @@
 ---
 title: "Arco"
 url: /mandan/arco-old-red-trail/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
 url: /fargo/caseys-general-store-45th-street-south-2/
-shop: convenience
+shop: Lebensmittel
 ---

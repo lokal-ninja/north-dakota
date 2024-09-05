@@ -1,5 +1,5 @@
 ---
 title: "Adom African Market"
 url: /bismarck/adom-african-market/
-shop: convenience
+shop: Lebensmittel
 ---

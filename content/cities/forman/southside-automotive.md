@@ -1,5 +1,5 @@
 ---
 title: "Southside Automotive"
 url: /forman/southside-automotive/
-shop: car repair
+shop: Autowerkstatt
 ---

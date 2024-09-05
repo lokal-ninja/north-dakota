@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /grand-forks/sport-clips/
-shop: hairdresser
+shop: Friseur
 ---

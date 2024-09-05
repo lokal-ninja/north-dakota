@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /mandan/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

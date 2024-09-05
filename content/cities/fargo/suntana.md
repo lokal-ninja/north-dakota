@@ -1,5 +1,5 @@
 ---
 title: "Suntana"
 url: /fargo/suntana/
-shop: beauty
+shop: Kosmetik
 ---
