@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /grand-forks/kohls/
-shop: Warenhaus
+shop: department store
 ---

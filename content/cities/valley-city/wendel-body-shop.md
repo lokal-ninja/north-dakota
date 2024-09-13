@@ -1,5 +1,5 @@
 ---
 title: "Wendel Body Shop"
 url: /valley-city/wendel-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /minot/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

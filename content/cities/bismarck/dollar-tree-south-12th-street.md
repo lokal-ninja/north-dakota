@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /bismarck/dollar-tree-south-12th-street/
-shop: Kramladen
+shop: variety store
 ---

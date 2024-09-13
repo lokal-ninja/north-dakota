@@ -1,5 +1,5 @@
 ---
 title: "Complete Nutrition"
 url: /grand-forks/complete-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

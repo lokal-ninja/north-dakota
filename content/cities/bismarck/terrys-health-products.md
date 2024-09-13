@@ -1,5 +1,5 @@
 ---
 title: "Terry's Health Products"
 url: /bismarck/terrys-health-products/
-shop: Bioladen
+shop: health food
 ---

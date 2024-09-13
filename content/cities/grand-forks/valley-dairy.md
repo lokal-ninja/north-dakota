@@ -1,5 +1,5 @@
 ---
 title: "Valley Dairy"
 url: /grand-forks/valley-dairy/
-shop: Lebensmittel
+shop: convenience
 ---

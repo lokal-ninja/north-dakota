@@ -1,5 +1,5 @@
 ---
 title: "Verazity Storage"
 url: /fargo/verazity-storage/
-shop: Mieten
+shop: storage rental
 ---

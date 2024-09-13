@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /minot/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central Grocery"
 url: /forman/central-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

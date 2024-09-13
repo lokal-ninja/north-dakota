@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /bismarck/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ardent"
 url: /dickinson/ardent/
-shop: Mieten
+shop: storage rental
 ---

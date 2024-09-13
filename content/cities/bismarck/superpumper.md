@@ -1,5 +1,5 @@
 ---
 title: "Superpumper"
 url: /bismarck/superpumper/
-shop: Lebensmittel
+shop: convenience
 ---

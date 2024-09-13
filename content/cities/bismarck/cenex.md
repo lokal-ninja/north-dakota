@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /bismarck/cenex/
-shop: Lebensmittel
+shop: convenience
 ---

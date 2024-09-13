@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /rugby/cenex/
-shop: Lebensmittel
+shop: convenience
 ---

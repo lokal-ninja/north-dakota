@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /fargo/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

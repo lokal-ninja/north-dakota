@@ -1,5 +1,5 @@
 ---
 title: "Northland Vapor"
 url: /fargo/northland-vapor/
-shop: Tabak
+shop: tobacco
 ---

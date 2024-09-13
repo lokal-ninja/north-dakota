@@ -1,5 +1,5 @@
 ---
 title: "Bakken Ridge Smoke Shop"
 url: /williston/bakken-ridge-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

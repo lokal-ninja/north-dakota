@@ -1,5 +1,5 @@
 ---
 title: "Toucan International Market"
 url: /grand-forks/toucan-international-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /bismarck/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

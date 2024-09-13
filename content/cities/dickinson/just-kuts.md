@@ -1,5 +1,5 @@
 ---
 title: "Just Kuts"
 url: /dickinson/just-kuts/
-shop: Friseur
+shop: hairdresser
 ---

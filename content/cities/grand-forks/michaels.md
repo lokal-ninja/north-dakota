@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /grand-forks/michaels/
-shop: Basteln
+shop: craft
 ---

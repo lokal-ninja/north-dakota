@@ -1,5 +1,5 @@
 ---
 title: "Family Fare"
 url: /bismarck/family-fare-yorktown-drive/
-shop: Supermarkt
+shop: supermarket
 ---

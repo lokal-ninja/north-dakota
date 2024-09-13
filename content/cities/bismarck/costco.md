@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /bismarck/costco/
-shop: Großhandel
+shop: wholesale
 ---

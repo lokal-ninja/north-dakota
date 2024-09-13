@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /fargo/family-dollar-34th-street-southwest/
-shop: Kramladen
+shop: variety store
 ---

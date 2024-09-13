@@ -1,5 +1,5 @@
 ---
 title: "Prairie Fire Pottery"
 url: /beach/prairie-fire-pottery/
-shop: Kunst
+shop: art
 ---

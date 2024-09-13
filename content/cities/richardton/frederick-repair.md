@@ -1,5 +1,5 @@
 ---
 title: "Frederick Repair"
 url: /richardton/frederick-repair/
-shop: Autowerkstatt
+shop: car repair
 ---
