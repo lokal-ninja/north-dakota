@@ -1,11 +1,11 @@
 id: 244148285
-type: way
+type: node
 latitude: 46.86324
 longitude: -96.8544
 postcode: "58103"
 city: Fargo
-street: "13th Avenue South"
-housenumber: 4305
-phone: "+1 701-277-1875"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://stores.burlington.com/nd/fargo/525"
+street: 13th Avenue South
+housenumber: "4305"
+phone: +1 701-277-1875
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00
+website: https://stores.burlington.com/nd/fargo/525

@@ -1,11 +1,11 @@
 id: 244283743
-type: way
+type: node
 latitude: 46.86336
 longitude: -96.86236
 postcode: "58103"
 city: Fargo
-street: "13th Avenue South"
-housenumber: 4517
+street: 13th Avenue South
+housenumber: "4517"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 424986661
-type: way
+type: node
 latitude: 46.79884
 longitude: -100.79333
 postcode: "58504"
 city: Bismarck
-street: "South Washington Street"
-housenumber: 701
+street: South Washington Street
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

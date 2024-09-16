@@ -1,11 +1,11 @@
 id: 506479909
-type: way
+type: node
 latitude: 47.16984
 longitude: -98.45977
 postcode: "58492"
 city: Wimbledon
-street: "Center Street"
-housenumber: 401
+street: Center Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

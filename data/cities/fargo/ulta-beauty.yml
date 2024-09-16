@@ -1,11 +1,11 @@
 id: 639573329
-type: way
+type: node
 latitude: 46.86159
 longitude: -96.86086
 postcode: "58103"
 city: Fargo
-street: "13th Avenue South"
-housenumber: 4420
-phone: "+1 701-281-4831"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/fargo-nd-465"
+street: 13th Avenue South
+housenumber: "4420"
+phone: +1 701-281-4831
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/fargo-nd-465

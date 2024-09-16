@@ -1,11 +1,11 @@
 id: 239393691
-type: way
+type: node
 latitude: 48.11224
 longitude: -98.85944
 postcode: ""
 city: Devils Lake
-street: "4th Street"
-housenumber: 415
-phone: "800-422-0607"
+street: 4th Street
+housenumber: "415"
+phone: 800-422-0607
 opening_hours: ""
-website: "http://www.gerrellssports.com/"
+website: http://www.gerrellssports.com/

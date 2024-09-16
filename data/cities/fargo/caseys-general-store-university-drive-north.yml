@@ -1,11 +1,11 @@
 id: 96727219
-type: way
+type: node
 latitude: 46.90524
 longitude: -96.79698
 postcode: "58102"
 city: Fargo
-street: "University Drive North"
-housenumber: 1901
+street: University Drive North
+housenumber: "1901"
 phone: ""
 opening_hours: ""
 website: ""

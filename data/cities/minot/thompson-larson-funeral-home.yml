@@ -1,11 +1,11 @@
 id: 241991532
-type: way
+type: node
 latitude: 48.23329
 longitude: -101.29438
 postcode: ""
 city: Minot
-street: "3rd Avenue Southwest"
-housenumber: 21
+street: 3rd Avenue Southwest
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

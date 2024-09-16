@@ -1,11 +1,11 @@
 id: 1226255628
-type: way
+type: node
 latitude: 46.89919
 longitude: -102.77001
 postcode: "58601"
 city: Dickinson
-street: "10th Avenue East"
-housenumber: 1545
+street: 10th Avenue East
+housenumber: "1545"
 phone: "7016903702"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.ardentdakota.com/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.ardentdakota.com/

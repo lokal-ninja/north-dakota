@@ -1,11 +1,11 @@
 id: 758234564
-type: way
+type: node
 latitude: 48.14959
 longitude: -103.67287
 postcode: "58801"
 city: Williston
-street: "32nd Avenue West"
-housenumber: 405
+street: 32nd Avenue West
+housenumber: "405"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3330"
+website: https://www.menards.com/store-details/store.html?store=3330

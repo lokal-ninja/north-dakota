@@ -1,11 +1,11 @@
 id: 300297333
-type: way
+type: node
 latitude: 47.36748
 longitude: -102.74981
 postcode: "58640"
 city: Killdeer
-street: "Central Avenue Southeast"
-housenumber: 225
+street: Central Avenue Southeast
+housenumber: "225"
 phone: ""
 opening_hours: ""
-website: "https://www.stevensonfuneralhome.com/Killdeer.asp"
+website: https://www.stevensonfuneralhome.com/Killdeer.asp

@@ -4,8 +4,8 @@ latitude: 46.80848
 longitude: -96.86205
 postcode: "58104"
 city: Fargo
-street: "45th Street South"
-housenumber: 4801
+street: 45th Street South
+housenumber: "4801"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/nd/fargo/6366/"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/nd/fargo/6366/

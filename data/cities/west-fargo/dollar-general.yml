@@ -1,11 +1,11 @@
 id: 840307550
-type: way
+type: node
 latitude: 46.8331
 longitude: -96.90774
 postcode: "58078"
 city: West Fargo
-street: "32rd Avenue West"
-housenumber: 425
+street: 32rd Avenue West
+housenumber: "425"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nd/west-fargo/19914"
+website: https://www.dollargeneral.com/store-directory/nd/west-fargo/19914

@@ -1,11 +1,11 @@
 id: 498938793
-type: way
+type: node
 latitude: 47.88775
 longitude: -97.05798
 postcode: "58201"
 city: Grand Forks
-street: "32nd Avenue South"
-housenumber: 2273
-phone: "+1 701 864-3646"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-18:00"
-website: "https://www.lithiafordgrandforks.com/"
+street: 32nd Avenue South
+housenumber: "2273"
+phone: +1 701 864-3646
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-18:00
+website: https://www.lithiafordgrandforks.com/

@@ -1,11 +1,11 @@
 id: 666375483
-type: way
+type: node
 latitude: 46.86225
 longitude: -96.84926
 postcode: "58103"
 city: Fargo
-street: "13th Avenue South"
-housenumber: 4055
-phone: "701-277-1494"
+street: 13th Avenue South
+housenumber: "4055"
+phone: 701-277-1494
 opening_hours: ""
-website: "https://www.riddlesjewelry.com/"
+website: https://www.riddlesjewelry.com/

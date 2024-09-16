@@ -1,11 +1,11 @@
 id: 1059270539
-type: way
+type: node
 latitude: 46.84821
 longitude: -100.91404
 postcode: "58554"
 city: Mandan
-street: "Old Red Trail"
-housenumber: 2511
+street: Old Red Trail
+housenumber: "2511"
 phone: ""
 opening_hours: ""
 website: ""

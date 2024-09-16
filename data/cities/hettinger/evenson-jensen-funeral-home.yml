@@ -1,11 +1,11 @@
 id: 649671198
-type: way
+type: node
 latitude: 45.99841
 longitude: -102.63053
 postcode: "58639"
 city: Hettinger
-street: "4th Avenue South"
-housenumber: 902
-phone: "701-567-2522"
+street: 4th Avenue South
+housenumber: "902"
+phone: 701-567-2522
 opening_hours: ""
 website: ""

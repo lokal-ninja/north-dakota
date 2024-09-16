@@ -1,11 +1,11 @@
 id: 376747442
-type: way
+type: node
 latitude: 46.81419
 longitude: -96.86255
 postcode: "58104"
 city: Fargo
-street: "45th Street South"
-housenumber: 4405
+street: 45th Street South
+housenumber: "4405"
 phone: ""
 opening_hours: ""
 website: ""

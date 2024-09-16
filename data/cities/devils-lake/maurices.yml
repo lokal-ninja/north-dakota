@@ -1,11 +1,11 @@
 id: 239393694
-type: way
+type: node
 latitude: 48.11224
 longitude: -98.85925
 postcode: ""
 city: Devils Lake
-street: "4th Street"
-housenumber: 412
-phone: "(701) 6627944"
+street: 4th Street
+housenumber: "412"
+phone: (701) 6627944
 opening_hours: ""
-website: "https://www.maurices.com/"
+website: https://www.maurices.com/

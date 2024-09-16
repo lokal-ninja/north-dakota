@@ -1,11 +1,11 @@
 id: 132864173
-type: way
+type: node
 latitude: 46.89016
 longitude: -96.83137
 postcode: "58102"
 city: Fargo
-street: "12th Avenue North"
-housenumber: 3220
+street: 12th Avenue North
+housenumber: "3220"
 phone: ""
 opening_hours: ""
 website: ""

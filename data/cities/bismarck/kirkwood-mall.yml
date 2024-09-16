@@ -1,11 +1,11 @@
 id: 62250806
-type: way
+type: node
 latitude: 46.79926
 longitude: -100.78473
 postcode: ""
 city: Bismarck
-street: "Kirkwood Mall"
-housenumber: 706
-phone: "+1 701 223 3500"
+street: Kirkwood Mall
+housenumber: "706"
+phone: +1 701 223 3500
 opening_hours: ""
-website: "https://shopkirkwoodmall.com/"
+website: https://shopkirkwoodmall.com/

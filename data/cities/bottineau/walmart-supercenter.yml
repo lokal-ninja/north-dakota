@@ -1,11 +1,11 @@
 id: 630960674
-type: way
+type: node
 latitude: 48.81819
 longitude: -100.43156
 postcode: "58318"
 city: Bottineau
-street: "11th Street East"
-housenumber: 912
-phone: "+1 701-228-5276"
-opening_hours: "Mo-Sa 00:00-24:00;Su 12:00-24:00"
-website: "https://www.walmart.com/store/4569/bottineau-nd/whats-new"
+street: 11th Street East
+housenumber: "912"
+phone: +1 701-228-5276
+opening_hours: Mo-Sa 00:00-24:00;Su 12:00-24:00
+website: https://www.walmart.com/store/4569/bottineau-nd/whats-new

@@ -4,8 +4,8 @@ latitude: 46.82752
 longitude: -96.86246
 postcode: "58104"
 city: Fargo
-street: "45th Street South"
-housenumber: 3523
-phone: "+1-701-532-0642"
-opening_hours: "Mo-Sa by appointment only"
-website: "https://everlastingmassage.biz/"
+street: 45th Street South
+housenumber: "3523"
+phone: +1-701-532-0642
+opening_hours: Mo-Sa "by appointment only"
+website: https://everlastingmassage.biz/

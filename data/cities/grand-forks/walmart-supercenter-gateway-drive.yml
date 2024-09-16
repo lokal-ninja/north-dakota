@@ -1,11 +1,11 @@
 id: 529980543
-type: way
+type: node
 latitude: 47.93082
 longitude: -97.11487
 postcode: "58203"
 city: Grand Forks
-street: "Gateway Drive"
-housenumber: 5755
-phone: "+1 701-620-6003"
-opening_hours: "Mo-Fr 06:00-01:00, Sa 06:00-24:00, Su 12:00-01:00"
-website: "https://www.walmart.com/store/5806/grand-forks-nd/whats-new"
+street: Gateway Drive
+housenumber: "5755"
+phone: +1 701-620-6003
+opening_hours: Mo-Fr 06:00-01:00, Sa 06:00-24:00, Su 12:00-01:00
+website: https://www.walmart.com/store/5806/grand-forks-nd/whats-new

@@ -1,11 +1,11 @@
 id: 1225250056
-type: way
+type: node
 latitude: 46.87719
 longitude: -102.7673
 postcode: "58601"
 city: Dickinson
-street: "East Villard Street"
-housenumber: 1100
-phone: "701-483-5733"
-opening_hours: "Mo, We, Fr 13:00-16:00"
-website: "https://www.homnd.org/"
+street: East Villard Street
+housenumber: "1100"
+phone: 701-483-5733
+opening_hours: Mo, We, Fr 13:00-16:00
+website: https://www.homnd.org/

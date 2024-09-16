@@ -1,11 +1,11 @@
 id: 286659879
-type: way
+type: node
 latitude: 46.97678
 longitude: -96.88104
 postcode: "58042"
 city: Harwood
-street: "Dakota Ave"
-housenumber: 310
+street: Dakota Ave
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

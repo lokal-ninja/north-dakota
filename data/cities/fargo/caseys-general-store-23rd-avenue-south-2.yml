@@ -1,11 +1,11 @@
 id: 557788029
-type: way
+type: node
 latitude: 46.84347
 longitude: -96.88211
 postcode: "58104"
 city: Fargo
-street: "23rd Avenue South"
-housenumber: 5680
+street: 23rd Avenue South
+housenumber: "5680"
 phone: ""
 opening_hours: ""
 website: ""

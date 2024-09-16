@@ -1,11 +1,11 @@
 id: 656600115
-type: way
+type: node
 latitude: 46.89324
 longitude: -102.78715
 postcode: "58601"
 city: dickinson
-street: "Osborn Drive"
-housenumber: 
+street: Osborn Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.85935
 longitude: -96.84893
 postcode: "58103"
 city: Fargo
-street: "13th Ave SW, #241"
-housenumber: 3902
-phone: "+1 701-365-0217"
-opening_hours: "Mo-Sa 10:00-21:00, Su 12:00-18:00"
-website: "https://luxspafargo.com"
+street: '13th Ave SW, #241'
+housenumber: "3902"
+phone: +1 701-365-0217
+opening_hours: Mo-Sa 10:00-21:00, Su 12:00-18:00
+website: https://luxspafargo.com

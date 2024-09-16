@@ -1,11 +1,11 @@
 id: 96324579
-type: way
+type: node
 latitude: 46.13855
 longitude: -98.09301
 postcode: "58474"
 city: Oakes
-street: "Main Avenue"
-housenumber: 504
-phone: "+1-701-742-6620"
-opening_hours: "Mo-Fr 06:30-16:00"
+street: Main Avenue
+housenumber: "504"
+phone: +1-701-742-6620
+opening_hours: Mo-Fr 06:30-16:00
 website: ""

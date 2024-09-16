@@ -1,11 +1,11 @@
 id: 225056493
-type: way
+type: node
 latitude: 46.83157
 longitude: -96.84513
 postcode: "58104"
 city: Fargo
-street: "39th Street South"
-housenumber: 3220
+street: 39th Street South
+housenumber: "3220"
 phone: ""
 opening_hours: ""
 website: ""

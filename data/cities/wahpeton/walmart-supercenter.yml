@@ -1,11 +1,11 @@
 id: 369443686
-type: way
+type: node
 latitude: 46.2845
 longitude: -96.6304
 postcode: "58075"
 city: Wahpeton
-street: "Commerce Drive"
-housenumber: 1625
-phone: "+1 701-642-9086"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/3875/wahpeton-nd/whats-new"
+street: Commerce Drive
+housenumber: "1625"
+phone: +1 701-642-9086
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/3875/wahpeton-nd/whats-new

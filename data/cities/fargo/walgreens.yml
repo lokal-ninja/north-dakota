@@ -1,11 +1,11 @@
 id: 244148282
-type: way
+type: node
 latitude: 46.86255
 longitude: -96.85191
 postcode: "58103"
 city: Fargo
-street: "13th Avenue South"
-housenumber: 4201
+street: 13th Avenue South
+housenumber: "4201"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4201+13th+ave+s-fargo-nd-58103/id=11552"
+website: https://www.walgreens.com/locator/walgreens-4201+13th+ave+s-fargo-nd-58103/id=11552

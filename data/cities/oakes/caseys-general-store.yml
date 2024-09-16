@@ -1,11 +1,11 @@
 id: 96425206
-type: way
+type: node
 latitude: 46.12896
 longitude: -98.09152
 postcode: "58474"
 city: Oakes
-street: "7th Street South"
-housenumber: 909
-phone: "+1-701-742-2039"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.caseys.com"
+street: 7th Street South
+housenumber: "909"
+phone: +1-701-742-2039
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.caseys.com

@@ -1,11 +1,12 @@
 id: 444211337
-type: way
+type: node
 latitude: 46.80145
 longitude: -100.7875
 postcode: "58501"
 city: Bismarck
-street: "South 3rd Street"
-housenumber: 421
-phone: "+1-701-222-7210"
-opening_hours: "Mo-Sa 09:00-18:00; Su 12:00-17:00 open Store || Mo-Fr 09:00-16:00 open Donation"
-website: "https://www.esgwnd.org/storelocationsandhours/"
+street: South 3rd Street
+housenumber: "421"
+phone: +1-701-222-7210
+opening_hours: Mo-Sa 09:00-18:00; Su 12:00-17:00 open "Store" || Mo-Fr 09:00-16:00
+    open "Donation"
+website: https://www.esgwnd.org/storelocationsandhours/

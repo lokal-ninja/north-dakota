@@ -1,11 +1,11 @@
 id: 9798662
-type: way
+type: node
 latitude: 46.88356
 longitude: -98.72141
 postcode: ""
 city: Jamestown
-street: "8th Avenue Southwest"
-housenumber: 2400
+street: 8th Avenue Southwest
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

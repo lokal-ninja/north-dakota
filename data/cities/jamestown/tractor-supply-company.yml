@@ -1,11 +1,11 @@
 id: 1053073003
-type: way
+type: node
 latitude: 46.88443
 longitude: -98.72295
 postcode: "58401"
 city: Jamestown
-street: "10th Avenue Southwest"
-housenumber: 2319
-phone: "+1 701-252-4111"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: 10th Avenue Southwest
+housenumber: "2319"
+phone: +1 701-252-4111
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 496938068
-type: way
+type: node
 latitude: 46.10056
 longitude: -97.63537
 postcode: "58032"
 city: Forman
-street: "South Avenue West"
-housenumber: 109
-phone: "+1-701-724-6368"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
-website: "https://www.a-zbodyshop.com/"
+street: South Avenue West
+housenumber: "109"
+phone: +1-701-724-6368
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-12:00
+website: https://www.a-zbodyshop.com/

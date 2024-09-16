@@ -1,11 +1,11 @@
 id: 685151266
-type: way
+type: node
 latitude: 46.83863
 longitude: -96.79993
 postcode: "58103"
 city: Fargo
-street: "University Drive South"
-housenumber: 2701
+street: University Drive South
+housenumber: "2701"
 phone: ""
 opening_hours: ""
 website: ""

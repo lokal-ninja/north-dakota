@@ -1,11 +1,11 @@
 id: 276656048
-type: way
+type: node
 latitude: 46.83704
 longitude: -96.86262
 postcode: "58104"
 city: Fargo
-street: "Brandt Drive South"
-housenumber: 2755
+street: Brandt Drive South
+housenumber: "2755"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 244111376
-type: way
+type: node
 latitude: 46.86644
 longitude: -96.86085
 postcode: "58103"
 city: Fargo
-street: "9th Avenue Southwest"
-housenumber: 4440
+street: 9th Avenue Southwest
+housenumber: "4440"
 phone: ""
 opening_hours: ""
 website: ""

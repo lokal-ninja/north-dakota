@@ -1,11 +1,11 @@
 id: 322238763
-type: way
+type: node
 latitude: 46.83131
 longitude: -100.81196
 postcode: "58503"
 city: Bismarck
-street: "West Century Avenue"
-housenumber: 1215
+street: West Century Avenue
+housenumber: "1215"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/nd/bismarck/3226/"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/nd/bismarck/3226/

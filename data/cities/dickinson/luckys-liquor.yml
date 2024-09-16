@@ -1,11 +1,11 @@
 id: 1228359521
-type: way
+type: node
 latitude: 46.89456
 longitude: -102.79239
 postcode: "58601"
 city: Dickinson
-street: "West 12th Street"
-housenumber: 450
+street: West 12th Street
+housenumber: "450"
 phone: ""
 opening_hours: ""
-website: "https://luckysdickinson.com"
+website: https://luckysdickinson.com

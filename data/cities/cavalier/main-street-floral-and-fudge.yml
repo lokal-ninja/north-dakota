@@ -1,11 +1,11 @@
 id: 239380796
-type: way
+type: node
 latitude: 48.79401
 longitude: -97.62371
 postcode: ""
 city: Cavalier
-street: "Main Street West"
-housenumber: 118
-phone: "+1 701 265 4142"
+street: Main Street West
+housenumber: "118"
+phone: +1 701 265 4142
 opening_hours: ""
-website: "https://www.mainstreetfloralandfudge.com/"
+website: https://www.mainstreetfloralandfudge.com/

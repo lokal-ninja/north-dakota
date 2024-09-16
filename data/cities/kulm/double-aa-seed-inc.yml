@@ -1,11 +1,11 @@
 id: 506255430
-type: way
+type: node
 latitude: 46.2982
 longitude: -98.95353
 postcode: "58456"
 city: Kulm
-street: "3rd Ave SW"
-housenumber: 310
-phone: "701-647-7333"
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-17:00"
-website: "https://www.doubleaaseeds.com/"
+street: 3rd Ave SW
+housenumber: "310"
+phone: 701-647-7333
+opening_hours: Mo-Fr 09:00-12:00, 13:00-17:00
+website: https://www.doubleaaseeds.com/

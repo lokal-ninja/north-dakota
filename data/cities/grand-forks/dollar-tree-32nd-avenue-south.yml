@@ -1,11 +1,11 @@
 id: 596235648
-type: way
+type: node
 latitude: 47.88776
 longitude: -97.06811
 postcode: "58201"
 city: Grand Forks
-street: "32nd Avenue South"
-housenumber: 2761
+street: 32nd Avenue South
+housenumber: "2761"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/nd/grand-forks/2809/"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/nd/grand-forks/2809/

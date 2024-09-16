@@ -4,8 +4,8 @@ latitude: 46.89105
 longitude: -96.83101
 postcode: "58102"
 city: Fargo
-street: "12th Avenue North"
-housenumber: 3225
-phone: "+1 855 797 2648"
+street: 12th Avenue North
+housenumber: "3225"
+phone: +1 855 797 2648
 opening_hours: ""
-website: "https://syscond.com/"
+website: https://syscond.com/

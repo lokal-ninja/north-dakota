@@ -1,11 +1,11 @@
 id: 1301271298
-type: way
+type: node
 latitude: 47.67984
 longitude: -97.98766
 postcode: "58212"
 city: Aneta
-street: "Main Avenue"
-housenumber: 213
+street: Main Avenue
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

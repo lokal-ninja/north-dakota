@@ -1,11 +1,11 @@
 id: 85043024
-type: way
+type: node
 latitude: 46.88442
 longitude: -96.79948
 postcode: "58102"
 city: Fargo
-street: "North University Drive"
-housenumber: 724
+street: North University Drive
+housenumber: "724"
 phone: ""
-opening_hours: "7:00-23:00"
+opening_hours: 7:00-23:00
 website: ""

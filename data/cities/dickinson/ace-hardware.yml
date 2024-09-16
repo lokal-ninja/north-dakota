@@ -2,10 +2,10 @@ id: 11413677674
 type: node
 latitude: 46.8936
 longitude: -102.79128
-postcode: "58601-3863"
+postcode: 58601-3863
 city: Dickinson
-street: "West 12th Street"
-housenumber: 1173
-phone: "+1 701-483-1238"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-18:00; Su 10:00-17:00"
+street: West 12th Street
+housenumber: "1173"
+phone: +1 701-483-1238
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-18:00; Su 10:00-17:00
 website: ""

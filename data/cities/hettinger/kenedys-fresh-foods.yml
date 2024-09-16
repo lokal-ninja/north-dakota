@@ -1,11 +1,11 @@
 id: 649679640
-type: way
+type: node
 latitude: 46.00275
 longitude: -102.6363
 postcode: "58639"
 city: Hettinger
-street: "North Main Street"
-housenumber: 200
+street: North Main Street
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""
