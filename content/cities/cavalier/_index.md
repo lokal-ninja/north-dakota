@@ -1,6 +1,6 @@
 ---
-title: cavalier
+title: Cavalier
 url: /cavalier/
-latitude: 48.798
-longitude: -97.716
+latitude: 48.794
+longitude: -97.625
 ---
