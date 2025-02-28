@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /fargo/holiday-36th-avenue-south/
+url: /fargo/holiday-25th-street-south/
 shop: convenience
 ---
