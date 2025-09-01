@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /fargo/circle-k-19th-avenue-north/
+url: /west-fargo/circle-k/
 shop: convenience
 ---
