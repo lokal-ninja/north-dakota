@@ -1,6 +1,6 @@
 ---
 title: Bottineau
 url: /bottineau/
-latitude: 48.818
-longitude: -100.432
+latitude: 48.82
+longitude: -100.447
 ---
