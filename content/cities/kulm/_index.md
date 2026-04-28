@@ -1,6 +1,6 @@
 ---
 title: Kulm
 url: /kulm/
-latitude: 46.3
-longitude: -98.948
+latitude: 46.298
+longitude: -98.954
 ---
