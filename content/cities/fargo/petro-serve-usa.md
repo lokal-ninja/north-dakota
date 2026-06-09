@@ -1,5 +1,5 @@
 ---
-title: "Petro Serve USA"
+title: "Petro Serve Usa"
 url: /fargo/petro-serve-usa/
 shop: convenience
 ---
